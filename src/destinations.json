@@ -1,0 +1,187 @@
+{
+    "destinations": [
+      {
+        "country": "Spain",
+        "city": "Barcelona",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["beach", "sightseeing", "culture"]
+      },
+      {
+        "country": "Norway",
+        "city": "Oslo",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["hiking", "museums", "northern lights"]
+      },
+      {
+        "country": "France",
+        "city": "Paris",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["sightseeing", "culture", "shopping"]
+      },
+      {
+        "country": "Italy",
+        "city": "Rome",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["history", "sightseeing", "food"]
+      },
+      {
+        "country": "Japan",
+        "city": "Tokyo",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["technology", "culture", "shopping"]
+      },
+      {
+        "country": "Australia",
+        "city": "Sydney",
+        "weather": "warm",
+        "budget": "high",
+        "activities": ["beach", "adventure", "sightseeing"]
+      },
+      {
+        "country": "Canada",
+        "city": "Vancouver",
+        "weather": "cold",
+        "budget": "medium",
+        "activities": ["nature", "skiing", "sightseeing"]
+      },
+      {
+        "country": "Brazil",
+        "city": "Rio de Janeiro",
+        "weather": "hot",
+        "budget": "medium",
+        "activities": ["beach", "culture", "festivals"]
+      },
+      {
+        "country": "South Africa",
+        "city": "Cape Town",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["nature", "adventure", "sightseeing"]
+      },
+      {
+        "country": "USA",
+        "city": "New York",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["shopping", "culture", "nightlife"]
+      },
+      {
+        "country": "Thailand",
+        "city": "Bangkok",
+        "weather": "hot",
+        "budget": "low",
+        "activities": ["culture", "shopping", "nightlife"]
+      },
+      {
+        "country": "Greece",
+        "city": "Athens",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["history", "sightseeing", "beach"]
+      },
+      {
+        "country": "Germany",
+        "city": "Berlin",
+        "weather": "cold",
+        "budget": "medium",
+        "activities": ["history", "nightlife", "culture"]
+      },
+      {
+        "country": "India",
+        "city": "Jaipur",
+        "weather": "hot",
+        "budget": "low",
+        "activities": ["culture", "history", "sightseeing"]
+      },
+      {
+        "country": "Iceland",
+        "city": "Reykjavik",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["nature", "sightseeing", "adventure"]
+      },
+      {
+        "country": "Egypt",
+        "city": "Cairo",
+        "weather": "hot",
+        "budget": "low",
+        "activities": ["history", "culture", "sightseeing"]
+      },
+      {
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["culture", "shopping", "nightlife"]
+      },
+      {
+        "country": "Switzerland",
+        "city": "Zurich",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["skiing", "sightseeing", "shopping"]
+      },
+      {
+        "country": "Mexico",
+        "city": "Cancun",
+        "weather": "hot",
+        "budget": "medium",
+        "activities": ["beach", "nightlife", "adventure"]
+      },
+      {
+        "country": "Indonesia",
+        "city": "Bali",
+        "weather": "hot",
+        "budget": "low",
+        "activities": ["beach", "nature", "culture"]
+      },
+      {
+        "country": "Spain",
+        "city": "Madrid",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["culture", "sightseeing", "food"]
+      },
+      {
+        "country": "South Korea",
+        "city": "Seoul",
+        "weather": "cold",
+        "budget": "medium",
+        "activities": ["shopping", "culture", "technology"]
+      },
+      {
+        "country": "New Zealand",
+        "city": "Queenstown",
+        "weather": "cold",
+        "budget": "high",
+        "activities": ["adventure", "nature", "skiing"]
+      },
+      {
+        "country": "United Arab Emirates",
+        "city": "Dubai",
+        "weather": "hot",
+        "budget": "high",
+        "activities": ["shopping", "luxury", "adventure"]
+      },
+      {
+        "country": "Turkey",
+        "city": "Istanbul",
+        "weather": "warm",
+        "budget": "low",
+        "activities": ["history", "culture", "sightseeing"]
+      },
+      {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "weather": "warm",
+        "budget": "medium",
+        "activities": ["beach", "sightseeing", "food"]
+      }            
+    ]
+  }
+    
