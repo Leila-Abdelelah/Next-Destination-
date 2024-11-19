@@ -6,7 +6,6 @@ public class Destination {
     private String weather;
     private String budget;
     private List<String> activities;
-    
 
     public Destination(String country, String city, String weather, String budget, List<String> activities) {
         this.country = country;
@@ -31,6 +30,7 @@ public class Destination {
     public List<String> getActivities() { 
         return activities; 
     }
+
 
     public String toString() {
         return "Destination: " + city + ", " + country + "\nWeather: " + weather + "\nBudget: " + budget + "\nActivities: " + activities;
